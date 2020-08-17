@@ -1,4 +1,4 @@
-# meditation-destination
+# Crypto Data Warehouse
 
 ## Project setup
 ```
